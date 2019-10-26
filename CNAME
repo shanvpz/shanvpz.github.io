@@ -1,3 +1,7 @@
+;WWW.SHAN.ONLINE.                     IN      A
+WWW.SHAN.ONLINE.              3592    IN      CNAME   shanvpz.github.io.
+shanvpz.github.io.            43192   IN      CNAME    GITHUB-PAGES-SERVER .
+GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
 shankm.online     3600    IN A     185.199.108.153
 shankm.online     3600    IN A     185.199.109.153
 shankm.online     3600    IN A     185.199.110.153
